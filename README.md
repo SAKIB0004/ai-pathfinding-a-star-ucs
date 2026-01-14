@@ -33,7 +33,7 @@ The simulation visualizes how an agent navigates a grid with obstacles to comple
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your_username/ai-pathfinding-a-star-ucs.git
+   https://github.com/SAKIB0004/ai-pathfinding-a-star-ucs.git
    cd ai-pathfinding-a-star-ucs
 2. **Install Dependencies**
 
