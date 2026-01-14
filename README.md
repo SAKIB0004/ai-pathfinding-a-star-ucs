@@ -45,7 +45,7 @@ The simulation visualizes how an agent navigates a grid with obstacles to comple
 ## Project Structure
 
 ```text
-/
+ai-pathfinding-a-star-ucs/
 │
 ├── run.py
 ├── agent1.py
