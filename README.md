@@ -42,12 +42,13 @@ The simulation visualizes how an agent navigates a grid with obstacles to comple
    python -m pip install pygame
    ```
 
-### Directory Structure
+## Project Structure
 
-ai-pathfinding-a-star-ucs/
+```text
+/
 │
-├── run.py              # Main simulation script
-├── agent1.py           # A* Search agent
-├── agent2.py           # Uniform Cost Search (UCS) agent
-├── environment.py      # Grid environment, tasks, and barriers
-├── README.md           # Project documentation
+├── run.py
+├── agent1.py
+├── agent2.py
+├── environment.py
+├── README.md
